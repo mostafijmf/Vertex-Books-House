@@ -10,7 +10,6 @@ import Spinner from '../Shared/Spinner/Spinner';
 
 const Home = () => {
     const [products, setProducts] = useProducts([]);
-    console.log(products);
 
     const products6 = products.slice(0,6);
 
