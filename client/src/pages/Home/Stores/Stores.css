@@ -1,0 +1,9 @@
+.store img{
+    height: 330px;
+    width: 90%;
+    margin: 0 auto;
+    transition: .3s ease-out;
+}
+.store img:hover{
+    transform: scale(1.2);
+}

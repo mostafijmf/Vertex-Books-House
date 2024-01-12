@@ -1,0 +1,6 @@
+.email-verify{
+    height: 500px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

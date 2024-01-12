@@ -1,0 +1,112 @@
+[
+    {
+      "price": "$18.99",
+      "img": "https://storage.googleapis.com/circlesoft/document/photos/003/674/882/large_temp_img.jpg20220505-1-1xlegw3?1651786875",
+      "name": "The Ice Dragon",
+      "description": "An enchanting tale of courage and sacrifice by George R.R. Martin, author of A Song of Ice and Fire, the series that inspired HBO's Emmy Award-winning GAME OF THRONES. From ancient times the ice dragon was a creature of legend and fear, for no man had ever tamed one. But Adara was not afraid.",
+      "author": "George R R Martin",
+      "publisher": "HarperCollins Publishers",
+      "publish": "May 2022",
+      "quantity": "5",
+      "email": "mostafijmozumdar@gmail.com"
+    },
+    {
+      "price": "$31.50",
+      "img": "https://storage.googleapis.com/circlesoft/document/photos/003/719/612/large_temp_img.jpg20220416-1-1wde57a?1650099774",
+      "name": "The Dance Tree",
+      "description": "In Strasbourg, in the boiling hot summer of 1518, a plague strikes the women of the city. First it is just one - a lone figure, dancing in the town square - but she is joined by more and more and the city authorities declare an emergency. Musicians will be brought in. The devil will be danced out of these women.",
+      "author": "Kiran Millwood Hargrave",
+      "publisher": "PAN MACMILLAN UK",
+      "publish": "February 2022",
+      "quantity": "10",
+      "email": "mostafijmozumdar@gmail.com"
+    },
+    {
+      "price": "$32.99",
+      "img": "https://storage.googleapis.com/circlesoft/document/photos/003/709/816/large_9781509835324.jpg?1649465320",
+      "name": "The Kaiju Preservation Society",
+      "description": "In New York City, Jamie Gray is a driver for food delivery apps. That is, until Jamie makes a delivery to an old acquaintance, Tom, who works at what he calls an animal rights organization. Tom`s team needs a last-minute grunt to handle things on their next field visit. Jamie, eager to do anything, immediately signs on.",
+      "author": "John Scalzi",
+      "publisher": "Pan Macmillan",
+      "publish": "January 2022",
+      "quantity": "12",
+      "email": "mostafijmozumdar@gmail.com"
+    },
+    {
+      "price": "$49.99",
+      "img": "https://storage.googleapis.com/circlesoft/document/photos/003/597/693/large_9781864708943.jpg?1619745098",
+      "name": "Architecture Is Fun",
+      "description": "In a follow-up to the very successful monograph Design for Kids (Images Publishing, 2007), here Sharon Exley and Peter Exley go about expanding on the key philosophies behind their unique practice. Namely, that play is an invitation to Architecture Is Fun.",
+      "author": "PETER EXLEY",
+      "publisher": "Antique Collectors' Club",
+      "publish": "April 2021",
+      "quantity": "9",
+      "email": "mostafijmozumdar@gmail.com"
+    },
+    {
+      "price": "$34.99",
+      "img": "https://storage.googleapis.com/circlesoft/document/photos/003/712/324/large_9781761103513.jpg?1652312774",
+      "name": "Bedtime Story",
+      "description": "Let me tell you a story... When Chloe Hooper's partner is diagnosed with a rare and aggressive illness, she has to find a way to tell their two young sons. By instinct, she turns to the bookshelf. Can the news be broken as a bedtime tale? Is there a perfect book to prepare children for loss?",
+      "author": "Chloe Hooper",
+      "publisher": "Simon & Schuster Australia",
+      "publish": "May 2022",
+      "quantity": "7",
+      "email": "mostafijmozumdar@gmail.com"
+    },
+    {
+      "price": "$90.00",
+      "img": "https://storage.googleapis.com/circlesoft/document/photos/003/693/704/large_temp_img.jpg20220125-1-q8eami?1643084844",
+      "name": "Treehouses for Adults",
+      "description": "A stunning array of rustic and charming treehouses from around the world for inspiration and for those who fantasize about getting away from it all. Whether it's a yearning to escape the stress of day-to-day existence, or a desire to live more sustainably and to get closer to nature, more and more people are finding reasons to go off-grid, high above the ground.",
+      "author": "Philip Jodidio",
+      "publisher": "Rizzoli International Publications, Incorporated",
+      "publish": "March 2022",
+      "quantity": "15",
+      "email": "mostafijmozumdar@gmail.com"
+    },
+    {
+      "price": "$32.99",
+      "img": "https://storage.googleapis.com/circlesoft/document/photos/003/720/370/large_9781529074505.jpg?1649637261",
+      "name": "Trust",
+      "description": "Even through the roar of the 1920s, everyone in New York has heard of Benjamin and Helen Rask. He is a legendary Wall Street tycoon; she is the brilliant daughter of eccentric aristocrats. Together, they have risen to the very top of a world of seemingly endless wealth. But the secrets around their affluence and grandeur excite gossip.",
+      "author": "Hernan Diaz, Hernán Diaz",
+      "publisher": "Pan Macmillan",
+      "publish": "February 2022",
+      "quantity": "10",
+      "email": "mostafijmozumdar@gmail.com"
+    },
+    {
+      "price": "$32.99",
+      "img": "https://storage.googleapis.com/circlesoft/document/photos/003/712/894/large_9781761065996.jpg?1650285851",
+      "name": "Rattled",
+      "description": "What if your life were suddenly transformed by anxiety and fear? The fear of being alone, the anxiety compelling you to stay in public places and avoid predictable routines. The horrible uncertainty of not knowing whether you should fear for your life, and maybe even the lives of your children. The dreadful knowledge that, ultimately, you are powerless to escape.",
+      "author": "Ellis Gunn",
+      "publisher": "Allen & Unwin",
+      "publish": "April 2022",
+      "quantity": "9",
+      "email": "mostafijmozumdar@gmail.com"
+    },
+    {
+      "price": "$39.95",
+      "img": "https://storage.googleapis.com/circlesoft/document/photos/002/291/338/large_9780714848587.jpg?1649126289",
+      "name": "Earthsong",
+      "description": "'Earthsong' comprises a spectacular collection of breathtaking aerial photographs of the earth's surface, taken from all over the world. This book offers a mesmerizing perspective of the world in which we live, but which we rarely get to glimpse so completely. These images reveal wide stretches of the earth's surface that are untouched by human influence, where nature reigns, and natural phenomena dominate and define the landscape.",
+      "author": "Angelika Jung-Huttl",
+      "publisher": "Phaidon Press Limited",
+      "publish": "March 2008",
+      "quantity": "5",
+      "email": "mostafijmozumdar@gmail.com"
+    },
+    {
+      "price": "$32.99",
+      "img": "https://storage.googleapis.com/circlesoft/document/photos/003/698/593/large_temp_img.jpg20220322-1-suhq7i?1647985984",
+      "name": "Trust & Inspire",
+      "description": "Traditionally, businesses have relied on a 'command and control' management style, focusing on rigid hierarchies and compliance from employees. Covey argues we must shift from a 'command and control' to a 'trust and inspire' leadership model. Trusting and inspiring your team is defined by commitment from both sides, with a focus on effectiveness and fostering a growth mindset.",
+      "author": "Stephen M. R. Covey",
+      "publisher": "Harper Entertainment Distribution Services",
+      "publish": "April 2022",
+      "quantity": "4",
+      "email": "mostafijmozumdar@gmail.com"
+    }
+  ]

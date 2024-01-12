@@ -1,0 +1,25 @@
+.contact-text p{
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 1px;
+    margin: 10px 0;
+}
+.input-group{
+    display: flex;
+    justify-content: space-between;
+}
+.contact-input{
+    width: 48%;
+}
+
+/* ---------------
+responsive mobile 
+------------------*/
+@media only screen and (max-width: 500px){
+    .input-group{
+        flex-direction: column;
+    }
+    .contact-input{
+        width: 100% !important;
+    }
+}

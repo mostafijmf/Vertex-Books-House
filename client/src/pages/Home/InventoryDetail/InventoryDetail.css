@@ -1,0 +1,80 @@
+.detail{
+    background: #fff;
+}
+
+.detail-img img{
+    width: 300px;
+    height: 460px;
+    border: 1px solid #e73e3a;
+    padding: 40px;
+    transition: .3s ease-out;
+}
+.detail-img img:hover{
+    padding: 0;
+}
+.detail-info h2{
+    font-size: 40px;
+}
+.d-description{
+    font-size: 20px;
+    color: #6c757d;
+}
+.detail-info ul{
+    list-style: none;
+    padding: 0;
+}
+.detail-info ul li{
+    font-size: 18px;
+    font-weight: 500;
+    margin: 8px 0;
+}
+.detail-info ul li span{
+    font-size: 25px;
+}
+
+
+.restock{
+    background: #fdebeb;
+    padding: 50px;
+}
+
+.restock-form input{
+    border: none;
+    padding: 12px 14px;
+    margin-bottom: 20px;
+}
+
+
+/* ---------------
+responsive tablet 
+------------------*/
+@media only screen and (max-width: 991px){
+    .detail-img{
+        margin-bottom: 40px;
+    }
+}
+/* ---------------
+responsive mobile 
+------------------*/
+@media only screen and (max-width: 450px){
+    .detail{
+        justify-content: center !important;
+        padding: 2rem !important;
+    }
+    .detail-img img{
+        width: 100%;
+        padding: 20px;
+    }
+    .detail-info h2{
+        font-size: 30px;
+    }
+    .d-description{
+        font-size: 18px;
+    }
+    .detail-info ul li{
+        font-size: 17px;
+    }
+    .detail-info ul li span{
+        font-size: 22px;
+    }
+}

@@ -1,0 +1,45 @@
+.vc-bold500 {
+    font-weight: 500 !important;
+}
+
+.vc-nav-link {
+    font-size: 20px;
+    font-weight: 500;
+    color: #2C313C !important;
+    position: relative;
+    transition: .3s;
+}
+
+.vc-nav-link:hover {
+    color: #e73e3a !important;
+    /* border-bottom: 1px solid #e73e3a; */
+}
+
+.vc-nav-link::after{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 2px;
+    width: 0;
+    background: #e73e3a;
+    transition: .3s !important;
+}
+.vc-nav-link:hover::after{
+    width: 100%;
+}
+
+/* ---------------
+responsive mobile 
+------------------*/
+@media only screen and (max-width: 364px) {
+    .vc-navbar-brand {
+        width: 100%;
+        display: block !important;
+    }
+
+    .vc-nav-btn {
+        display: block;
+        margin-left: auto;
+    }
+}
